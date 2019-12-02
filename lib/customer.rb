@@ -18,6 +18,7 @@ class Customer
   end
   
   def waiters
+    Waiters
     
   def self.all
     @@all
